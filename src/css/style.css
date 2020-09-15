@@ -1,4 +1,11 @@
 body {
-  background: #eee;
-  text-align: center;
+  background: #eeeeee;
+}
+
+.sorting-table {
+  border: 1px solid black;
+}
+
+td {
+  border: 1px solid gray; 
 }
